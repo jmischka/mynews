@@ -1,0 +1,25 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+
+
+.App {
+  background-color: white;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.title {
+  margin: 0 auto;
+  display: inline-block;
+  padding: 12px;
+  min-width: 300px;
+}
+
